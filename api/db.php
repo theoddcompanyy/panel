@@ -2,12 +2,12 @@
 
 class DB
 {
-    private $db = "";
+    private $db = "sql6491278";
 
-    private $host = "";
-    private $username = "";
-    private $password = "";
-    private $dbname = "";
+    private $host = "sql6.freesqldatabase.com";
+    private $username = "sql6491278";
+    private $password = "6IebBW9dyx";
+    private $dbname = "sql6491278";
 
     public function __construct($h, $u, $p, $d)
     {
